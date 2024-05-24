@@ -9,12 +9,12 @@
 
 - 💬 Ask me about **Java,HTMl,CSS,JavaScript,Python,PostgreSQL,MySQL**
 
-- 📫 How to reach me **hshinde04121@gmail.com**
+- 📫 How to reach me **hmshinde4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hitesh-shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesh-shinde" height="30" width="40" /></a>
-<a href="https://instagram.com/hitesh_shinde04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hitesh_shinde04" height="30" width="40" /></a>
+<a href="https://instagram.com/mr.shindesarkar04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.shindesarkar04" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/hiteshshindevlogs4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hiteshshindevlogs4" height="30" width="40" /></a>
 </p>
 
